@@ -9,7 +9,7 @@ A reading list of resources dedicated to visual(image) question answering「main
   * [2017 Papers](#2017-papers)
   * [2018 Papers](#2018-papers)
   * [2019 Papers](#2019-papers)
-* TODO List
+* TODO Listq
   * [Else Papers]()
   * [Similar field Papers]()
   * [Notes supplement]()
@@ -19,7 +19,7 @@ A reading list of resources dedicated to visual(image) question answering「main
 
 | ID | Title | Ori Date | Latest Date | Notes | Pubilshed<br>(Incomplete Statistics) |
 | :-: | :-: | :-: | :-: | - | :-: |
-| 1 | [VQA: Visual Question Answering](https://arxiv.org/pdf/1505.00468) | 2015.05.03 | 2016.10.26 | [[Data](https://visualqa.org/)] | ICCV 2015 |
+| 1 | [VQA: Visual Question Answering](https://arxiv.org/pdf/1505.00468) | 2015.05.03 | 2016.10.26 | [[Data](https://visualqa.org/)] [[code](https://github.com/JamesChuanggg/VQA-tensorflow)] | ICCV 2015 |
 | 2 | [Ask Your Neurons: A Neural-based Approach to Answering Questions about Images](https://arxiv.org/pdf/1505.01121) | 2015.05.05 | 2015.10.01 |  | ICCV 2015 |
 | 3 | [Exploring Models and Data for Image Question Answering](https://arxiv.org/pdf/1505.02074) | 2015.05.08 | 2015.11.29 |  | NIPS 2015 |
 | 4 | [Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question Answering](https://arxiv.org/pdf/1505.05612) | 2015.05.21 | 2015.11.02 | [[Data](http://research.baidu.com/Downloads)] | NIPS 2015 |
@@ -27,7 +27,7 @@ A reading list of resources dedicated to visual(image) question answering「main
 | 6 | [What value do explicit high level concepts have in vision to language problems?](https://arxiv.org/pdf/1506.01144) | 2015.06.03 | 2016.04.29 |  | CVPR 2016 |
 | 7 | [Semantic Amodal Segmentation](https://arxiv.org/pdf/1509.01329) | 2015.09.03 | 2016.12.14 |  |
 | 8 | [VISALOGY: Answering Visual Analogy Questions](https://arxiv.org/pdf/1510.08973) | 2015.10.30 |  |  | NIPS 2015 |
-| 9 | [Stacked Attention Networks for Image Question Answering](https://arxiv.org/pdf/1511.02274) | 2015.11.06 | 2016.01.26 | [[code](https://github.com/abhshkdz/neural-vqa-attention) | CVPR 2016 |
+| 9 | [Stacked Attention Networks for Image Question Answering](https://arxiv.org/pdf/1511.02274) | 2015.11.06 | 2016.01.26 | [[code1](https://github.com/abhshkdz/neural-vqa-attention)] [[code2](https://github.com/JamesChuanggg/san-torch)] | CVPR 2016 |
 | 10 | [Explicit Knowledge-based Reasoning for Visual Question Answering](https://arxiv.org/pdf/1511.05099) | 2015.11.09 | 2015.11.11 |  |  |
 | 11 | [Neural Module Networks](https://arxiv.org/pdf/1511.02799) | 2015.11.09 | 2017.07.24 |  |  |
 | 12 | [Visual7W: Grounded Question Answering in Images](https://arxiv.org/pdf/1511.03416) | 2015.11.11 | 2016.04.09 |  | CVPR 2016 |
@@ -53,8 +53,8 @@ A reading list of resources dedicated to visual(image) question answering「main
 | 7 | [Learning Models for Actions and Person-Object Interactions with Transfer to Question Answering](https://arxiv.org/pdf/1604.04808) | 2016.04.16 | 2016.07.28 |  |  |
 | 8 | [Leveraging Visual Question Answering for Image-Caption Ranking](https://arxiv.org/pdf/1605.01379) | 2016.05.04 | 2015.08.31 |  |  |
 | 9 | [Ask Your Neurons: A Deep Learning Approach to Visual Question Answering](https://arxiv.org/pdf/1605.02697) | 2016.05.09 | 2016.11.24 |  |  |
-| 10 | [Hierarchical Question-Image Co-Attention for Visual Question Answering](https://arxiv.org/pdf/1606.00061) | 2016.05.31 | 2017.01.19 |  | NIPS 2016 |
-| 11 | [Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding](https://arxiv.org/pdf/1606.01847) | 2016.06.06 | 2016.09.23 |  | EMNLP 2016 |
+| 10 | [Hierarchical Question-Image Co-Attention for Visual Question Answering](https://arxiv.org/pdf/1606.00061) | 2016.05.31 | 2017.01.19 | [[code](https://github.com/jiasenlu/HieCoAttenVQA)] | NIPS 2016 |
+| 11 | [Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding](https://arxiv.org/pdf/1606.01847) | 2016.06.06 | 2016.09.23 | [[code](https://github.com/akirafukui/vqa-mcb)] | EMNLP 2016 |
 | 12 | [Human Attention in Visual Question Answering: Do Humans and Deep Networks Look at the Same Regions?](https://arxiv.org/pdf/1606.03556) | 2016.06.11 | 2016.06.17 |  | EMNLP 2016 |
 | 13 | [Training Recurrent Answering Units with Joint Loss Minimization for VQA](https://arxiv.org/pdf/1606.03647) | 2016.06.11 | 2016.09.29 |  |  |
 | 14 | [FVQA: Fact-based Visual Question Answering](https://arxiv.org/pdf/1606.05433) | 2016.06.17 | 2016.08.08 |  |  |
@@ -112,7 +112,7 @@ A reading list of resources dedicated to visual(image) question answering「main
 | 16 | [The Promise of Premise: Harnessing Question Premises in Visual Question Answering](https://arxiv.org/pdf/1705.00601) | 2017.05.01 | 2017.08.17 |  | EMNLP 2017 |
 | 17 | [Survey of Visual Question Answering: Datasets and Techniques](https://arxiv.org/pdf/1705.03865) | 2017.05.10 | 2017.05.11 | [Survey] |  |
 | 18 | [ParlAI: A Dialog Research Software Platform](https://arxiv.org/pdf/1705.06476) | 2017.05.18 | 2018.03.08 |  |  |
-| 19 | [MUTAN: Multimodal Tucker Fusion for Visual Question Answering](https://arxiv.org/pdf/1705.06676) | 2017.05.18 |  |  |  |
+| 19 | [MUTAN: Multimodal Tucker Fusion for Visual Question Answering](https://arxiv.org/pdf/1705.06676) | 2017.05.18 |  | [[code](https://github.com/Cadene/vqa.pytorch)] |  |
 | 20 | [Learning Convolutional Text Representations for Visual Question Answering](https://arxiv.org/pdf/1705.06824) | 2017.05.18 | 2018.04.18 | [[code](https://github.com/divelab/svae)] | SDM 2018;<br>In proceedings of the 2018 SIAM International Conference on Data Mining (pp. 594-602). 2018 |
 | 21 | [Deep learning evaluation using deep linguistic processing](https://arxiv.org/pdf/1706.01322) | 2017.06.05 | 2018.05.12 |  |  |
 | 22 | [A simple neural network module for relational reasoning](https://arxiv.org/pdf/1706.01427) | 2017.06.05 |  |  |  |
@@ -164,7 +164,7 @@ A reading list of resources dedicated to visual(image) question answering「main
 | 5 | [Object-based reasoning in VQA](https://arxiv.org/pdf/1801.09718) | 2018.01.29 |  |  | WACV 2018 |
 | 6 | [Dual Recurrent Attention Units for Visual Question Answering](https://arxiv.org/pdf/1802.00209) | 2018.02.01 | 2018.11.07 |  |  |
 | 7 | [Answerer in Questioner's Mind: Information Theoretic Approach to Goal-Oriented Visual Dialog](https://arxiv.org/pdf/1802.03881) | 2018.02.11 | 2018.11.28 |  | NIPS 2018 |
-| 8 | [Learning to Count Objects in Natural Images for Visual Question Answering](https://arxiv.org/pdf/1802.05766) | 2018.02.15 |  |  | ICLR 2018 |
+| 8 | [Learning to Count Objects in Natural Images for Visual Question Answering](https://arxiv.org/pdf/1802.05766) | 2018.02.15 |  | [[code](https://github.com/Cyanogenoid/vqa-counting)] | ICLR 2018 |
 | 9 | [Multimodal Explanations: Justifying Decisions and Pointing to the Evidence](https://arxiv.org/pdf/1802.08129) | 2018.02.15 |  | [Overlap(2016`41)] |  |
 | 10 | [VizWiz Grand Challenge: Answering Visual Questions from Blind People](https://arxiv.org/pdf/1802.08218) | 2018.02.22 | 2018.05.09 |  |  |
 | 11 | [Inverse Visual Question Answering: A New Benchmark and VQA Diagnosis Tool](https://arxiv.org/pdf/1803.06936) | 2018.03.16 |  | [Overlap(2017`43)] |  |
