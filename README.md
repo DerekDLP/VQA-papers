@@ -6,8 +6,8 @@ A reading list of resources dedicated to visual(image) question answering「main
 
   * [2015 Papers](#2015-papers)
   * [2016 Papers](#2016-papers)
+  * [2017 Papers](#2017-papers)
 * TODO List
-  * [2017 Papers]()
   * [2018 Papers]()
   * [2019 Papers]()
   * [Else Papers]()
@@ -87,4 +87,68 @@ A reading list of resources dedicated to visual(image) question answering「main
 | 42 | [The VQA-Machine: Learning How to Use Existing Vision Algorithms to Answer New Questions](https://arxiv.org/pdf/1612.05386) | 2016.12.16 |  |  |  |
 | 43 | [Automatic Generation of Grounded Visual Questions](https://arxiv.org/pdf/1612.06530) | 2016.12.20 | 2017.05.29 |  | IJCAI 2017 |
 | 44 | [CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning](https://arxiv.org/pdf/1612.06890) | 2016.12.20 |  |  |  |
+
+
+## 2017 Papers
+
+| ID | Title | Ori Date | Latest Date | Notes | Pubilshed<br>(Incomplete Statistics) |
+| :-: | :-: | :-: | :-: | - | :-: |
+| 1 | [Task-driven Visual Saliency and Attention-based Visual Question Answering](https://arxiv.org/pdf/1702.06700) | 2017.02.22 |  |  |  |
+| 2 | [Tree Memory Networks for Modelling Long-term Temporal Dependencies](https://arxiv.org/pdf/1703.04706) | 2017.03.12 | 2018.05.20 |  | Neurocomputing, Volume 304, 23 August 2018, Pages 64-81 |
+| 3 | [VQABQ: Visual Question Answering by Basic Questions](https://arxiv.org/pdf/1703.06492) | 2017.03.19 | 2017.08.28 |  | CVPR 2017 VQA Challenge Workshop |
+| 4 | [Recurrent and Contextual Models for Visual Question Answering](https://arxiv.org/pdf/1703.08120) | 2017.03.23 |  |  |  |
+| 5 | [An Analysis of Visual Question Answering Algorithms](https://arxiv.org/pdf/1703.09684) | 2017.03.28 | 2017.09.13 | [[data](http://kushalkafle.com/projects/tdiuc)] | ICCV 2017 |
+| 6 | [Aligned Image-Word Representations Improve Inductive Transfer Across Vision-Language Tasks](https://arxiv.org/pdf/1704.00260) | 2017.04.02 | 2017.10.16 |  | ICCV 2017 |
+| 7 | [It Takes Two to Tango: Towards Theory of AI's Mind](https://arxiv.org/pdf/1704.00717) | 2017.04.03 | 2017.10.02 |  |  |
+| 8 | [An Empirical Evaluation of Visual Question Answering for Novel Objects](https://arxiv.org/pdf/1704.02516) | 2017.04.08 |  |  | CVPR 2017 |
+| 9 | [Show, Ask, Attend, and Answer: A Strong Baseline For Visual Question Answering](https://arxiv.org/pdf/1704.03162) | 2017.04.11 | 2017.04.12 |  |  |
+| 10 | [What's in a Question: Using Visual Questions as a Form of Supervision](https://arxiv.org/pdf/1704.03895) | 2017.04.12 |  |  | CVPR 2017 |
+| 11 | [TGIF-QA: Toward Spatio-Temporal Reasoning in Visual Question Answering](https://arxiv.org/pdf/1704.04497) | 2017.04.14 | 2017.12.02 |  | CVPR 2017 |
+| 12 | [Learning to Reason: End-to-End Module Networks for Visual Question Answering](https://arxiv.org/pdf/1704.05526) | 2017.04.18 | 2017.09.11 |  |  |
+| 13 | [Being Negative but Constructively: Lessons Learnt from Creating Better Visual Question Answering Datasets](https://arxiv.org/pdf/1704.07121) | 2017.04.24 | 2018.06.10 |  | NAACL-HLT 2018 |
+| 14 | [C-VQA: A Compositional Split of the Visual Question Answering (VQA) v1.0 Dataset](https://arxiv.org/pdf/1704.08243) | 2017.04.26 |  |  |  |
+| 15 | [Speech-Based Visual Question Answering](https://arxiv.org/pdf/1705.00464) | 2017.05.01 | 2017.09.15 |  |  |
+| 16 | [The Promise of Premise: Harnessing Question Premises in Visual Question Answering](https://arxiv.org/pdf/1705.00601) | 2017.05.01 | 2017.08.17 |  | EMNLP 2017 |
+| 17 | [Survey of Visual Question Answering: Datasets and Techniques](https://arxiv.org/pdf/1705.03865) | 2017.05.10 | 2017.05.11 | [Survey] |  |
+| 18 | [ParlAI: A Dialog Research Software Platform](https://arxiv.org/pdf/1705.06476) | 2017.05.18 | 2018.03.08 |  |  |
+| 19 | [MUTAN: Multimodal Tucker Fusion for Visual Question Answering](https://arxiv.org/pdf/1705.06676) | 2017.05.18 |  |  |  |
+| 20 | [Learning Convolutional Text Representations for Visual Question Answering](https://arxiv.org/pdf/1705.06824) | 2017.05.18 | 2018.04.18 | [[code](https://github.com/divelab/svae)] | SDM 2018;<br>In proceedings of the 2018 SIAM International Conference on Data Mining (pp. 594-602). 2018 |
+| 21 | [Deep learning evaluation using deep linguistic processing](https://arxiv.org/pdf/1706.01322) | 2017.06.05 | 2018.05.12 |  |  |
+| 22 | [A simple neural network module for relational reasoning](https://arxiv.org/pdf/1706.01427) | 2017.06.05 |  |  |  |
+| 23 | [Compact Tensor Pooling for Visual Question Answering](https://arxiv.org/pdf/1706.06706) | 2017.06.20 |  |  |  |
+| 24 | [Sampling Matters in Deep Embedding Learning](https://arxiv.org/pdf/1706.07567) | 2017.06.23 | 2018.01.16 |  | ICCV 2017 |
+| 25 | [Modulating early visual processing by language](https://arxiv.org/pdf/1707.00683) | 2017.07.02 | 2017.12.18 |  | NIPS 2017 |
+| 26 | [Effective Approaches to Batch Parallelization for Dynamic Neural Network Architectures](https://arxiv.org/pdf/1707.02402) | 2017.07.08 |  | [[code](https://github.com/jsuarez5341/Efficient-Dynamic-Batching)] |  |
+| 27 | [Visual Question Answering with Memory-Augmented Networks](https://arxiv.org/pdf/1707.04968) | 2017.07.16 |  |  | CVPR 2018 |
+| 28 | [Improved Bilinear Pooling with CNNs](https://arxiv.org/pdf/1707.06772) | 2017.07.21 |  |  |  |
+| 29 | [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://arxiv.org/pdf/1707.07998) | 2017.07.25 | 2018.03.14 |  | CVPR 2018;<br>winner of 2017 VQA challenge|
+| 30 | [A Simple Loss Function for Improving the Convergence and Accuracy of Visual Question Answering Models](https://arxiv.org/pdf/1708.00584) | 2017.08.01 |  |  | CVPR 2017 |
+| 31 | [MemexQA: Visual Memex Question Answering](https://arxiv.org/pdf/1708.01336) | 2017.08.03 |  | [[Web](https://memexqa.cs.cmu.edu/)] |  |
+| 32 | [Multi-modal Factorized Bilinear Pooling with Co-Attention Learning for Visual Question Answering](https://arxiv.org/pdf/1708.01471) | 2017.08.04 |  |  | ICCV 2017 |
+| 33 | [Structured Attentions for Visual Question Answering](https://arxiv.org/pdf/1708.02071) | 2017.08.07 |  |  | ICCV 2017 |
+| 34 | [Tips and Tricks for Visual Question Answering: Learnings from the 2017 Challenge](https://arxiv.org/pdf/1708.02711) | 2017.08.09 |  |  | Winner of the 2017 Visual Question Answering (VQA) Challenge at CVPR 2017 |
+| 35 | [Learning to Disambiguate by Asking Discriminative Questions](https://arxiv.org/pdf/1708.02760) | 2017.08.09 |  |  |  ICCV 2017 |
+| 36 | [Beyond Bilinear: Generalized Multi-modal Factorized High-order Pooling for Visual Question Answering](https://arxiv.org/pdf/1708.03619) | 2017.08.10 |  | [Overlap(2017`32)] |  |
+| 37 | [VQS: Linking Segmentations to Questions and Answers for Supervised Attention in VQA and Question-Focused Semantic Segmentation](https://arxiv.org/pdf/1708.04686) | 2017.08.17 |  |  |  ICCV 2017 |
+| 38 | [Robustness Analysis of Visual QA Models by Basic Questions](https://arxiv.org/pdf/1709.04625) | 2017.09.14 | 2018.05.26 |  | CVPR 2018 |
+| 39 | [Exploring Human-like Attention Supervision in Visual Question Answering](https://arxiv.org/pdf/1709.06308) | 2017.09.19 |  |  |  |
+| 40 | [Visual Question Generation as Dual Task of Visual Question Answering](https://arxiv.org/pdf/1709.07192) | 2017.09.21 |  |  |  |
+| 41 | [Survey of Recent Advances in Visual Question Answering](https://arxiv.org/pdf/1709.08203) | 2017.09.24 |  | [Survey] |  |
+| 42 | [Fooling Vision and Language Models Despite Localization and Attention Mechanism](https://arxiv.org/pdf/1709.08693) | 2017.09.25 | 2018.04.05 |  | CVPR 2018 |
+| 43 | [iVQA: Inverse Visual Question Answering](https://arxiv.org/pdf/1710.03370) | 2017.10.09 | 2018.03.16 |  | CVPR 2018 |
+| 44 | [Active Learning for Visual Question Answering: An Empirical Study](https://arxiv.org/pdf/1711.01732) | 2017.11.06 |  |  |  |
+| 45 | [High-Order Attention Models for Visual Question Answering](https://arxiv.org/pdf/1711.04323) | 2017.11.12 |  |  | NIPS 2017 |
+| 46 | [A Novel Framework for Robustness Analysis of Visual QA Models](https://arxiv.org/pdf/1711.06232) | 2017.11.16 | 2018.12.24 |  | AAAI 2019 |
+| 47 | [Co-attending Free-form Regions and Detections with Multi-modal Multiplicative Feature Embedding for Visual Question Answering](https://arxiv.org/pdf/1711.06794) | 2017.11.17 | 2017.12.12 |  | AAAI 2018 |
+| 48 | [Attentive Explanations: Justifying Decisions and Pointing to the Evidence (Extended Abstract)](https://arxiv.org/pdf/1711.07373) | 2017.11.17 |  | [Overlap(2016`41)] |  |
+| 49 | [Visual Question Answering as a Meta Learning Task](https://arxiv.org/pdf/1711.08105) | 2017.11.21 |  |  |  |
+| 50 | [Locally Smoothed Neural Networks](https://arxiv.org/pdf/1711.08132) | 2017.11.22 |  |  | ACML 2017 |
+| 51 | [Hyper-dimensional computing for a visual question-answering system that is trainable end-to-end](https://arxiv.org/pdf/1711.10185) | 2017.11.28 |  |  |  |
+| 52 | [Don't Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering](https://arxiv.org/pdf/1712.00377) | 2017.12.01 | 2018.06.03 |  | CVPR 2018 |
+| 53 | [Incorporating External Knowledge to Answer Open-Domain Visual Questions with Dynamic Memory Networks](https://arxiv.org/pdf/1712.00733) | 2017.12.03 |  |  |  |
+| 54 | [Learning by Asking Questions](https://arxiv.org/pdf/1712.01238) | 2017.12.04 |  |  |  |
+| 55 | [IQA: Visual Question Answering in Interactive Environments](https://arxiv.org/pdf/1712.03316) | 2017.12.08 | 2018.09.06 |  | CVPR 2018 |
+| 56 | [Visual Explanations from Hadamard Product in Multimodal Deep Networks](https://arxiv.org/pdf/1712.06228) | 2017.12.17 |  |  | NIPS 2017 |
+| 57 | [Interpretable Counting for Visual Question Answering](https://arxiv.org/pdf/1712.08697) | 2017.12.22 | 2018.03.01 |  | ICLR 2018 |
+
 
