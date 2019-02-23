@@ -8,11 +8,11 @@ A reading list of resources dedicated to visual(image) question answering「main
   * [2016 Papers](#2016-papers)
   * [2017 Papers](#2017-papers)
   * [2018 Papers](#2018-papers)
+  * [2019 Papers](#2019-papers)
 * TODO List
-  * 
-  * [2019 Papers]()
   * [Else Papers]()
   * [Similar field Papers]()
+  * [Notes supplement]()
 
 
 ## 2015 Papers
@@ -219,3 +219,14 @@ A reading list of resources dedicated to visual(image) question answering「main
 | 60 | [Multi-modal Learning with Prior Visual Relation Reasoning](https://arxiv.org/pdf/1812.09681) | 2018.12.23 |  |  |  |
 | 61 | [The meaning of "most" for visual question answering models](https://arxiv.org/abs/1812.11737) | 2018.12.31 |  |  |  |
 
+
+## 2019 Papers
+
+| ID | Title | Ori Date | Latest Date | Notes | Pubilshed<br>(Incomplete Statistics) |
+| :-: | :-: | :-: | :-: | - | :-: |
+| 1 | [Visual Entailment: A Novel Task for Fine-Grained Image Understanding](https://arxiv.org/abs/1901.06706) | 2019.01.20 |  |  |  |
+| 2 | [BLOCK: Bilinear Superdiagonal Fusion for Visual Question Answering and Visual Relationship Detection](https://arxiv.org/abs/1902.00038) | 2019.01.31 |  |  |  |
+| 3 | [Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded](https://arxiv.org/abs/1902.03751) | 2019.02.11 |  |  | Technical Report |
+| 4 | [Cycle-Consistency for Robust Visual Question Answering](https://arxiv.org/abs/1902.05660) | 2019.02.14 |  |  |  |
+| 5 | [Generating Natural Language Explanations for Visual Question Answering using Scene Graphs and Visual Attention](https://arxiv.org/abs/1902.05715) | 2019.02.15 |  |  |  |
+| 6 | [Probabilistic Neural-symbolic Models for Interpretable Visual Question Answering](https://arxiv.org/pdf/1902.07864) | 2019.02.20 |  |  |  |
