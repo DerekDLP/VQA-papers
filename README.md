@@ -230,3 +230,5 @@ A reading list of resources dedicated to visual(image) question answering「main
 | 4 | [Cycle-Consistency for Robust Visual Question Answering](https://arxiv.org/abs/1902.05660) | 2019.02.14 |  |  |  |
 | 5 | [Generating Natural Language Explanations for Visual Question Answering using Scene Graphs and Visual Attention](https://arxiv.org/abs/1902.05715) | 2019.02.15 |  |  |  |
 | 6 | [Probabilistic Neural-symbolic Models for Interpretable Visual Question Answering](https://arxiv.org/pdf/1902.07864) | 2019.02.20 |  |  |  |
+| 7 | [MUREL: Multimodal Relational Reasoning for Visual Question Answering](https://arxiv.org/pdf/1902.09487) | 2019.02.25 |  |  | CVPR 2019 |
+| 8 | [GQA: a new dataset for compositional question answering over real-world images](https://arxiv.org/pdf/1902.09506) | 2019.02.25 |  |  |  |
