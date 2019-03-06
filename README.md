@@ -232,3 +232,4 @@ A reading list of resources dedicated to visual(image) question answering「main
 | 6 | [Probabilistic Neural-symbolic Models for Interpretable Visual Question Answering](https://arxiv.org/pdf/1902.07864) | 2019.02.20 |  |  |  |
 | 7 | [MUREL: Multimodal Relational Reasoning for Visual Question Answering](https://arxiv.org/pdf/1902.09487) | 2019.02.25 |  |  | CVPR 2019 |
 | 8 | [GQA: a new dataset for compositional question answering over real-world images](https://arxiv.org/pdf/1902.09506) | 2019.02.25 |  |  |  |
+| 9 | [Answer Them All! Toward Universal Visual Question Answering Models](https://arxiv.org/pdf/1903.00366) | 2019.03.01 |  |  |  |
